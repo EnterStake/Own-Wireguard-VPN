@@ -8,3 +8,11 @@ WireGuard - бесплатное программное приложение с 
 ```sh
 wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh
 ```
+3. Порт оставляем по умолчанию
+4. Пишем название сервиса 
+5. ```sh
+6. ownvpn
+7. ```
+8. Выбираем DNS по умолчанию
+
+
