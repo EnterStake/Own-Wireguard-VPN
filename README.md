@@ -21,6 +21,6 @@ wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.
 
  10. Скачиваем WireGard на телефон или комп 
  ```sh
-*https://www.wireguard.com/install/*
+https://www.wireguard.com/install/
  ```
  
