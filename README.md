@@ -14,12 +14,12 @@ wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.
  alert
  ```
 8. DNS по умолчанию
-9. Ожидаем установку, если установка завершилась удачно, высветится QR код.
+9. Ожидаем установку, если установка завершилась удачно высветится QR код.
 Пример успешной установки:
 
 ![1235](https://user-images.githubusercontent.com/72813679/205514095-e0f666f9-8278-445f-8f82-a837c482c3e1.jpg)
 
- 10. Скачиваем WireGuard на телефон или комп 
+ 10. Скачиваем WireGuard на телефон или компьютер
  #
  https://www.wireguard.com/install/
  #
